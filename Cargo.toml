@@ -1,6 +1,6 @@
 [package]
 name = "gpui_macros-gpui-standalone"
-version = "1.8.2"
+version = "1.9.0"
 license = "Apache-2.0"
 description = "Macros used by gpui"
 edition = "2024"
